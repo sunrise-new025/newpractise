@@ -1,6 +1,10 @@
 Rel Ul Fal
 ways to be there
+<<<<<<< HEAD
 already
+=======
+given ways
+>>>>>>> 9ebf4f0c8644024761615dbe9533ce33910fdfda
 this is a new line
 new ways al al bal fal
 newq
